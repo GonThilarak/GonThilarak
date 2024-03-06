@@ -10,7 +10,7 @@ Currently, I am developing my skills through an intensive 12-week data analytics
 My past experiences in the restaurant business have taught me to think strategically to identify solutions to problems. I am thrilled to develop my skills and use these experiences to fuel data-driven decisions and develop my career as an analyst.
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [My Portfolio](http://https://sites.google.com/view/purine-thilarak/home?authuser=0)
+* 🖥️  See my portfolio at [My Portfolio](https://sites.google.com/view/purine-thilarak/home)
 * ✉️  You can contact me at [Purinethilarak@gmail.com](mailto:Purinethilarak@gmail.com)
 
 ### Skills
